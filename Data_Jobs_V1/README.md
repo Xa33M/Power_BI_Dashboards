@@ -2,7 +2,7 @@
 
 ![Dashboard Page 1](/Images/Project_1_Image_1.PNG)
 
-[View interactive dashboard here on the Power BI Service](https://app.powerbi.com/reportEmbed?reportId=26442efe-6428-4ce1-acb1-b02a44b11613&autoAuth=true&ctid=6c005481-9261-49a0-9a7f-ae2b711140c3)
+[View interactive dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTA3MmM0MTItOThiNC00MDM3LWIwNjEtZDU2NmNiMTQ5YTAwIiwidCI6IjZjMDA1NDgxLTkyNjEtNDlhMC05YTdmLWFlMmI3MTExNDBjMyIsImMiOjEwfQ%3D%3D)
 
 ## Introduction
 
