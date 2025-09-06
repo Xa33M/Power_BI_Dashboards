@@ -29,6 +29,6 @@ Explore the dashboards below. Each dashboard has its own dedicated README that h
 - Explicit measures with DAX.
 - Parameters for navigating through key measures.
 - Dynamic vs. fixed comparison with SWITCH().
-📊 Bar charts
-🎨 Intuitive, visually engaging layout
-🧭 Interactivity with Slicers
+- 📊 Bar charts
+- 🎨 Intuitive, visually engaging layout
+- 🧭 Interactivity with Slicers
