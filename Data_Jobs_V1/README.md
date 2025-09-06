@@ -30,7 +30,7 @@ This is your mission control for the data job market. It shows key KPIs such as 
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page 2](/Images/Project_2_Page_2.PNG)
+![Dashboard Page 2](/Images/Project_1_Page_2.PNG)
 
 This is the deep dive page. From the main dashboard, you can drill through to this page to get specific details about a single job title, including:
 -   Salary ranges
