@@ -21,7 +21,7 @@ Explore the dashboards below. Each dashboard has its own dedicated README that h
 - 📋 Tables: Sortable, detailed job data
 - 🎨 Design: Intuitive, visually engaging layout
 - 🧭 Interactivity: Slicers, bookmarks, drill-through navigation.<br><br>
-[**View the Complete project details here (README)**](\Data_Jobs_V1\README.md)<br><br><br><br>
+[**View the Complete project details here (README)**](/Data_Jobs_V1/README.md)<br><br><br><br>
 
 ## Dashboard V2 - Skills Vs. Salaries
 ![Dashboard V2](/Images/Project_2.PNG)
