@@ -9,7 +9,7 @@ Explore the dashboards below. Each dashboard has its own dedicated README that h
 
 ## Dashboard V1 - Comprehensive Exploration 📈<br><br>
 
-![Dashboard V1](Images\Project_1_Image_1.PNG)
+![Dashboard V1](/Images/Project_1_Image_1.PNG)
 
 [**Click here to go the interactive dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYWFkYWNiMWItNzkwNy00Y2YwLTg1ZjUtNTA0ODhmNTZhZjcwIiwidCI6IjZjMDA1NDgxLTkyNjEtNDlhMC05YTdmLWFlMmI3MTExNDBjMyIsImMiOjEwfQ%3D%3D)
 <br><br><br>
@@ -24,7 +24,7 @@ Explore the dashboards below. Each dashboard has its own dedicated README that h
 [**View the Complete project details here (README)**](\Data_Jobs_V1\README.md)<br><br><br><br>
 
 ## Dashboard V2 - Skills Vs. Salaries
-![Dashboard V2](Images\Project_2.PNG)
+![Dashboard V2](/Images/Project_2.PNG)
 
 
 **Key Power BI skills utilized:**
