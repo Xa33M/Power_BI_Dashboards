@@ -35,12 +35,13 @@ Explore the dashboards below. Each dashboard has its own dedicated README that h
 
 
 **Key Power BI skills utilized:**
-- ⚙ ETL (With Power Query): Cleaned and shaped data for reporting.
+- 📝Advanced dashboard design (Single page UX & Optimization)
+- ⚙ ETL (With Power Query): Complex Power Query transformations.
 - 📋 Data Modeling: Linked tables using star schema.
-- 🧮 DAX Measures: Built dynamic and comparative metrics.
-- 📊 Core Charts: Visualized skill poplarity and salaries with bar charts.
+- 🧮 Explicit DAX Measures: Built dynamic and comparative metrics (with CALCULATE(), SWITCH() etc.).
+- 📊 Dynamic visualization (driven by slicers / parameters)
 - 🎯 KPI Indicators: Highlighted key stats with cards.
 - 🎨 Dashboard Design: Designed a clean, insight-driven layout.
-- 🗄 Interactive Reporting: Enabled smart filtering with slicers and toggles.<br><br>
+- 🗄 Interactive Reporting: Enabled smart filtering with slicers and parameters.<br><br>
 
 [**View the Complete project details here (README)**](/Data_Jobs_V2/README.md)
